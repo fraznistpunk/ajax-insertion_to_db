@@ -9,7 +9,7 @@ $(document).ready(function() {
         data:"name="+Fname+"&lastname="+Lname+"&user="+Uname+"&pass="+pwd,
         url:'insert.php',
         success: function (data) {
-            alert("Form submitted successfully");
+            alert("Form submitted successfully!!hoorah");
             window.location = "ajaxIns.php";
         }
      });
