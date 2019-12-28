@@ -1,1 +1,2 @@
-You can use this script to insert data submitted through a HTML form to database using AJAX
+Insert data into database using AJAX.
+#first_repo
